@@ -13,6 +13,12 @@
         android:theme="@style/Theme.CalculatorApp"
         tools:targetApi="31">
         <activity
+            android:name=".ZeroError"
+            android:exported="false" />
+        <activity
+            android:name=".CalculatedTotal"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
