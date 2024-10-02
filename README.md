@@ -1,3 +1,3 @@
 # calculatorapp
 
-Simple calculator app in Android Studio created for a class of mine.
+Simple calculator app in Android Studio created for my course Foundations of Mobile Systems and Applications
